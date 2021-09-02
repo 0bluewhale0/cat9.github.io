@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 关于visual studio 缺少组件而卸载重装过程中遇到的一些问题
 
 You can use the [editor on GitHub](https://github.com/0bluewhale0/cat9.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
