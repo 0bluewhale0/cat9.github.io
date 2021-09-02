@@ -1,6 +1,6 @@
 ## 关于visual studio 缺少组件而卸载重装过程中遇到的一些问题
 
-You can use the [editor on GitHub](https://github.com/0bluewhale0/cat9.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ [editor on GitHub](https://github.com/0bluewhale0/cat9.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
