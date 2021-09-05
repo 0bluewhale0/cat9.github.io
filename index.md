@@ -19,7 +19,9 @@ Files的路径，双击把它的数值“C:＼ProgramFiles”修改成你想安�
   \Windows\CurrentVersion  
   不过要注意：千万要记得在哪里修改过，如不想再安装在这个目录下时，要重新把它设回“C:＼ProgramFiles”。
 * [VisualStudio卸载后无法再次安装的解决方法](https://blog.csdn.net/xwx617/article/details/58728511)来自日本网站的一个方法，还挺有效的，应该是把该删的注册表都删干净了。
-------
+* [这篇博客](http://blog.csdn.net/k0000000r/article/details/49718637)针对vs2015安装包丢失或损坏文件的解决方法，具体的注册文件可以从[某CSDN博主「wuxie318」](https://blog.csdn.net/wuxie318/article/details/78733747)百度云盘下载，链接如下：https://pan.baidu.com/s/1eRUQJC2
+
+-------
 -------
 
 ### 下面是记的乱七八糟的玩意儿，和vs2019基本无关
