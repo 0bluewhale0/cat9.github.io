@@ -18,6 +18,7 @@ Files的路径，双击把它的数值“C:＼ProgramFiles”修改成你想安�
   </font><font color = green>HKEY_LOCAL_MACHINE</font>\ <font color = yellow>SOFTWARE</font>\Wow6432Node\Microsoft
   \Windows\CurrentVersion  
   不过要注意：千万要记得在哪里修改过，如不想再安装在这个目录下时，要重新把它设回“C:＼ProgramFiles”。
+* [VisualStudio卸载后无法再次安装的解决方法](https://blog.csdn.net/xwx617/article/details/58728511)来自日本网站的一个方法，还挺有效的，应该是把该删的注册表都删干净了。
 ------
 -------
 
