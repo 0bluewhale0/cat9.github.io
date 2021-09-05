@@ -14,11 +14,11 @@
   2. 利用注册表来改变默认安装的路径，方法是在“开始菜单”--“运行”中输入regedit,按回车后进入注册表编辑器，双击“我的电脑”，依次
 展开<font color = green>HKEY_LOCAL_MACHINE</font>＼<font color = yellow>SOFTWARE</font>＼Microsoft＼Windows＼CurrentVersion，在右侧窗口找到ProgramFilesDir，就是它记录了Program
 Files的路径，双击把它的数值“C:＼ProgramFiles”修改成你想安装到的目录的路径，例如：“D:＼Soft”，（不过一般新建的文件夹会与之前的文件夹重名，只是盘符不同）确定退出就可以了。  
-<font color = blue>64位系统还需要修改一个地方
-</font><font color = green>HKEY_LOCAL_MACHINE</font>\ <font color = yellow>SOFTWARE</font>\Wow6432Node\Microsoft
-\Windows\
-CurrentVersion  
-不过要注意：千万要记得在哪里修改过，如不想再安装在这个目录下时，要重新把它设回“C:＼ProgramFiles”。
+<font color = blue>  
+  64位系统还需要修改一个地方
+  </font><font color = green>HKEY_LOCAL_MACHINE</font>\ <font color = yellow>SOFTWARE</font>\Wow6432Node\Microsoft
+  \Windows\CurrentVersion  
+  不过要注意：千万要记得在哪里修改过，如不想再安装在这个目录下时，要重新把它设回“C:＼ProgramFiles”。
 ------
 -------
 
