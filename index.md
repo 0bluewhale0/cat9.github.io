@@ -33,4 +33,8 @@ Files的路径，双击把它的数值“C:＼ProgramFiles”修改成你想安�
 * 以及[这是一个可以使用国外免费服务器的网站yupage](https://cpanel.yupage.com/index.php)，不过似乎不太稳定的样子。注册需要有Gmail。
 * [这个家伙](https://github.com/imarvinle/awesome-cs-books#awesome-cs-books-%E8%B6%85%E8%BF%87-200-%E6%9C%AC%E7%BB%8F%E5%85%B8%E7%9A%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B9%A6%E7%B1%8D%E5%88%86%E4%BA%AB)整理了一些计算机类电子书籍。
 * [leetcode COOKBOOK]刷题的题解(https://books.halfrost.com/leetcode/)
-  
+#### 关于TODOLIST无法正常同步
+* [知乎专栏mstd在科学上网的情况下无法正常同步的解决方案](https://zhuanlan.zhihu.com/p/321254257)，试过之后重新打开WLAN链接就可以了，不知道是不是因为这个的问题，比较玄学，先码上。
+* 这个是另外一个在无法同步无法联网过程中可能遇到的问题。 
+注册表 HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NlaSvc\Parameters\Internet\EnableActiveProbing 需要是 1；如果是 0，则默认为离线状态，onenote拒绝同步，也没法创建移动热点……
+win10上修改后关掉系统里的WLAN开关再打开就能生效，也许不用重启系统。（这段话来自[这个网址](https://zhuanlan.zhihu.com/p/82351762),对于无法正常联网问题有效）
