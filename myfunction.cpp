@@ -1,0 +1,12 @@
+#define TRUE 1
+#define FALSE 0
+#define OK 1
+#define ERROR 0
+#define Status int
+#define Elemtype char
+#define EMPTY 1
+#define NOTEMPTY 0
+//#define OVERFLOW -1
+#define MAX_int 0x7fffffff
+#define N 128
+#define stack_size 100
