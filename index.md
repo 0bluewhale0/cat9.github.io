@@ -38,3 +38,6 @@ Files的路径，双击把它的数值“C:＼ProgramFiles”修改成你想安�
 * 这个是另外一个在无法同步无法联网过程中可能遇到的问题。 
 注册表 HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NlaSvc\Parameters\Internet\EnableActiveProbing 需要是 1；如果是 0，则默认为离线状态，onenote拒绝同步，也没法创建移动热点……
 win10上修改后关掉系统里的WLAN开关再打开就能生效，也许不用重启系统。（这段话来自[这个网址](https://zhuanlan.zhihu.com/p/82351762),对于无法正常联网问题有效）
+
+
+<a href="https://beian.miit.gov.cn/" target="_blank">京ICP备2023004067号-1</a>
